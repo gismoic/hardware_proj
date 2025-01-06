@@ -16,6 +16,6 @@ this project was an attempt to redesign a gameboy with a Z80 computer instead of
 # SD_P
 
 ![screenshot](SDP_PCB.png)
-![screenshot](SDP_SHC.png)
+![screenshot](SDP_SCH.png)
 
 A microSD card breakout board, a way to tinker with a SD card using hardware of my own desgin. A BOM was constructed detailing all parts, cost of each part, and links where to get them. Overall a very simple project.
