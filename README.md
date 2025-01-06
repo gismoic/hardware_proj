@@ -2,4 +2,4 @@ These are all hardware projects I've done over the years, these designs taught m
 
 # FLAT_MOBO
 
-![screenshot](Screenshot 2025-01-05 202348.png)
+![screenshot](Screenshot_2025-01-05_202348.png)
