@@ -19,3 +19,10 @@ this project was an attempt to redesign a gameboy with a Z80 computer instead of
 ![screenshot](SDP_SCH.png)
 
 A microSD card breakout board, a way to tinker with a SD card using hardware of my own desgin. A BOM was constructed detailing all parts, cost of each part, and links where to get them. Overall a very simple project.
+
+# BB_PS (battery charger) [WIP]
+
+![screenshot](BB_PS.png)
+
+A custom battery charger design that a uses a cc-cv circuit and a buck regulator for charging batteries. I hope to be able to add a microcontroller that monitors battery percentage and potentially other features. For now it is incomplete
+
